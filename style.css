@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(134, 130, 130, 0.13);
+}
+
+
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cbtn:hover{
+    width: 200px;
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+
+.hbtn:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+
+.bg{
+    background-color:crimson;
+}
+
+header i{
+    font-size: 24px;
+}
+
+.b{
+    border: 1px solid black;
+}
+
+.pos{
+    position: relative;
+    bottom: 65px;
+    right: -6px;   
+}
